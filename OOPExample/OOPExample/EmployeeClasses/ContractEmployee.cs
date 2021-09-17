@@ -25,7 +25,7 @@ namespace OOPExample.EmployeeClasses
 
         public override double calculateHourlyRate()
         {
-            return DailyRate;
+            return DailyRate/8;
         }
     }
 }

@@ -3,6 +3,6 @@ namespace OOPExample.EmployeeClasses
 {
     interface Payable
     {
-        public void Test();
+        public abstract double calculateHourlyRate();
     }
 }

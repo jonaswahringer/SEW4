@@ -24,7 +24,7 @@ namespace OOPExample.EmployeeClasses
             return $"{base.ToString()}, Salary: {Salary}";
         }
 
-        public override double calculateHourlyRate()
+        override public double calculateHourlyRate()
         {
             return ((this.Salary / 52) / 40);
         }

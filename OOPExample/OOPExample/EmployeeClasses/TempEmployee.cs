@@ -1,7 +1,7 @@
 ﻿using System;
 namespace OOPExample.EmployeeClasses
 {
-    class TempEmployee : Employee //extends equivalent
+    class TempEmployee : Employee
     {
         private double HourlyRate { get; set; } = 0.0;
 
@@ -23,9 +23,9 @@ namespace OOPExample.EmployeeClasses
             return $"{base.ToString()}, Hourly Rate: {HourlyRate}";
         }
 
-        public override double calculateHourlyRate()
+        override public double calculateHourlyRate()
         {
-            return HourlyRate*8;
+            return HourlyRate;
         }
     }
 }

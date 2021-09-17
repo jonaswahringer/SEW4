@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/OOPExample.csproj": {}
+    "/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4/OOPExample/OOPExample/OOPExample.csproj": {}
   },
   "projects": {
-    "/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/OOPExample.csproj": {
+    "/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4/OOPExample/OOPExample/OOPExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/OOPExample.csproj",
+        "projectUniqueName": "/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4/OOPExample/OOPExample/OOPExample.csproj",
         "projectName": "OOPExample",
-        "projectPath": "/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/OOPExample.csproj",
+        "projectPath": "/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4/OOPExample/OOPExample/OOPExample.csproj",
         "packagesPath": "/Users/jonasw/.nuget/packages/",
-        "outputPath": "/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/obj/",
+        "outputPath": "/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4/OOPExample/OOPExample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jonasw/.config/NuGet/NuGet.Config"

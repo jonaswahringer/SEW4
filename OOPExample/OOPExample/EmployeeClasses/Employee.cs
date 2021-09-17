@@ -27,10 +27,5 @@ namespace OOPExample.EmployeeClasses
         }
 
         public abstract double calculateHourlyRate();
-
-        public void Test()
-        {
-            Console.WriteLine("Test Method");
-        }
     }
 }
