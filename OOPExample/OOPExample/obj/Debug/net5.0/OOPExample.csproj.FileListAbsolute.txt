@@ -1,0 +1,15 @@
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/bin/Debug/net5.0/OOPExample.deps.json
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/bin/Debug/net5.0/OOPExample.runtimeconfig.json
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/bin/Debug/net5.0/OOPExample.runtimeconfig.dev.json
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/bin/Debug/net5.0/OOPExample.dll
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/bin/Debug/net5.0/ref/OOPExample.dll
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/bin/Debug/net5.0/OOPExample.pdb
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/obj/Debug/net5.0/OOPExample.csproj.AssemblyReference.cache
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/obj/Debug/net5.0/OOPExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/obj/Debug/net5.0/OOPExample.AssemblyInfoInputs.cache
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/obj/Debug/net5.0/OOPExample.AssemblyInfo.cs
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/obj/Debug/net5.0/OOPExample.csproj.CoreCompileInputs.cache
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/obj/Debug/net5.0/OOPExample.dll
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/obj/Debug/net5.0/ref/OOPExample.dll
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/obj/Debug/net5.0/OOPExample.pdb
+/Users/jonasw/localdocs/4AHIT/sew/praxis/sew4/SEW4_SourceCode/OOPExample/OOPExample/obj/Debug/net5.0/OOPExample.genruntimeconfig.cache
