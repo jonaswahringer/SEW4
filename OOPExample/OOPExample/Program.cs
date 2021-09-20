@@ -15,8 +15,8 @@ namespace OOPExample
 
             foreach(Employee emp in f)
             {
-                Console.WriteLine(emp);
-                Console.WriteLine($"Hourly rate: {emp.calculateHourlyRate().ToString("f2")}");
+                Console.Write(emp);
+                Console.WriteLine($", Hourly rate: {emp.calculateHourlyRate().ToString("f2")}");
             }
 
         }
