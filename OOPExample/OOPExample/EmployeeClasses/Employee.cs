@@ -4,7 +4,7 @@ using System;
 
 namespace OOPExample.EmployeeClasses
 {
-    abstract class Employee : Payable
+    abstract class Employee : IPayable
     {
         //bei properties anfangsbuchstabe groß
         public string FirstName { get; /*private*/ set; } = string.Empty; //.Empty kann compiler im gegensatz zu leerstring prüfen
