@@ -26,7 +26,7 @@ namespace OOPExample.EmployeeClasses
 
         override public double calculateHourlyRate()
         {
-            return ((this.Salary / 52) / 40);
+            return ((this.Salary / Globals.DEFAULT_WORK_DAYS_PER_YEAR) / Globals.DEFAULT_WORK_HOURS_PER_DAY);
         }
     }
 }

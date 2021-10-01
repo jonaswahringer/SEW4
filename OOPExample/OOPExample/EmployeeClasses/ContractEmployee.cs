@@ -1,5 +1,4 @@
-﻿using System;
-namespace OOPExample.EmployeeClasses
+﻿namespace OOPExample.EmployeeClasses
 {
     class ContractEmployee : Employee
     {
@@ -25,7 +24,7 @@ namespace OOPExample.EmployeeClasses
 
         public override double calculateHourlyRate()
         {
-            return DailyRate/8;
+            return DailyRate/Globals.DEFAULT_WORK_HOURS_PER_DAY;
         }
     }
 }
