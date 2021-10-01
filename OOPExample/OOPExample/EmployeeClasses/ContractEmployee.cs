@@ -4,7 +4,7 @@
     {
         private double DailyRate { get; set; } = 0.0;
 
-        public ContractEmployee() : base(UNKNOWN, UNKNOWN)
+        public ContractEmployee() : base(Globals.UNKNOWN, Globals.UNKNOWN)
         {
         }
 

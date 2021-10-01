@@ -6,12 +6,11 @@ namespace OOPExample.EmployeeClasses
 {
     abstract class Employee : Payable
     {
-        public const string UNKNOWN = "unknown";
         //bei properties anfangsbuchstabe groß
         public string FirstName { get; /*private*/ set; } = string.Empty; //.Empty kann compiler im gegensatz zu leerstring prüfen
         public string LastName { get; set; } = string.Empty;
 
-        public Employee() : this(UNKNOWN, UNKNOWN)
+        public Employee() : this(Globals.UNKNOWN, Globals.UNKNOWN)
         {
         }
 

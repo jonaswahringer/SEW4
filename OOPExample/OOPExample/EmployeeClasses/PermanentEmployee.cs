@@ -6,7 +6,7 @@ namespace OOPExample.EmployeeClasses
     {
         private double Salary { get; set; } = 0.0;
 
-        public PermanentEmployee() : base(UNKNOWN, UNKNOWN)
+        public PermanentEmployee() : base(Globals.UNKNOWN, Globals.UNKNOWN)
         {
         }
 
